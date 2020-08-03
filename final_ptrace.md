@@ -1,4 +1,4 @@
-![Semantic description of image](https://github.com/MalavVyas/LinuxProcessInjection/raw/master/20200721_113241.jpg "Process Injection")
+![img1]({{ "/assets/img/Posts/ptrace/1.png" | relative_url }})
 ## Introduction:
 
 Injection attacks have been in limelight since the initial days of the internet.
@@ -249,7 +249,19 @@ int main() {
 
 }
 ```
+## Code
 
+You can find the complete code and files at Author's Github Repo:
+
+https://github.com/MalavVyas/LinuxProcessInjection
+
+## Author
+
+**Malav Vyas**
+
+## Twitter
+
+**@malav.vyas1**
 Here this program just prints it's process id so we don't have to find that out every time we run and then it keeps printing the string "working" every 2 second.
 
 Let’s see working demo of how that’d work
