@@ -259,3 +259,8 @@ Let’s see working demo of how that’d work
   <iframe src="https://github.com/MalavVyas/LinuxProcessInjection/raw/master/ProcessInjectionDemo.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
+
+## Credits
+
+Credits to 0x00pf on 0x00sec for providing original research which i could build upon
+https://0x00sec.org/t/linux-infecting-running-processes/1097
